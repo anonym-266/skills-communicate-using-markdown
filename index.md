@@ -6,3 +6,6 @@
 ###### and finally this a H6
 just learned how to use different headers
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```bash
+multipass  launch  -name  my-first-machine
+```

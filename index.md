@@ -9,3 +9,7 @@ just learned how to use different headers
 ```bash
 multipass  launch  -name  my-first-machine
 ```
+- [ ] learn about software  engineering basics
+- [ ] practice to scale my skills  up
+- [ ] work  hard to  be among the  best
+- [ ] finally  get to my dream priffession

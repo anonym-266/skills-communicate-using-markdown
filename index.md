@@ -5,4 +5,4 @@
 ##### and this a H5 
 ###### and finally this a H6
 just learned how to use different headers
-[a cool wallpaper](https://www.pinterest.com/pin/nice--682436149802566238/)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
